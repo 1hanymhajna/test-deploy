@@ -1,0 +1,1 @@
+{"jobID":"c7127f96-2bf9-196f-a0b8-dc073c75bd4d","spec":{"type":"policy","cause":{"Message":"","User":"hany mhajna \u003chany@zooz.com\u003e"},"spec":{"dev:deployment/metrics":{"add":{"automated":"true"},"remove":null}}},"result":null}
